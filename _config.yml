@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
 title: ZMX's Personl Website
-email:1545812750@qq.com
+email: 1545812750@qq.com
 description: "ZMX's Personl Website"
 baseurl: "zhengmanxin" # the optional subpath of your site, e.g. "/blog"
 url: "https://github.com/zhengmanxin" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:zhengmanxin
+  name: zhengmanxin
   twitter:
   picture:
 twitter_username:
