@@ -19,7 +19,7 @@ email:1545812750@qq.com
 description: "ZMX's Personl Website"
 baseurl: "zhengmanxin" # the optional subpath of your site, e.g. "/blog"
 url: "https://github.com/zhengmanxin" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:zhengmanxin
+author:
   name:zhengmanxin
   twitter:
   picture:
