@@ -1,4 +1,4 @@
 ---
 layout: home
-image: assets/banner_mx
+image: assets/mx.jpg
 ---
