@@ -1,14 +1,17 @@
 ---
 layout: page
-title: 给网络加点料
+title: 网络那些事儿
 excerpt_separator: "<!--more-->"
 categories:
      - 网站设计
 ---
 
-# 给网络加点料
+# 网络那些事儿
+
+
 
 ## 第三章
+
 ### 8.CSS
 - 1.CSS的定义
 
