@@ -1,5 +1,12 @@
-# 网站设计
-## 第二章 主要内容
+---
+layout: page
+title: 网络小零件
+excerpt_separator: "<!--more-->"
+categories:
+     - 网站设计
+---
+# 网络小零件
+## 第二章 
 ### 5.HTTP协议
 - HTTP协议全称Hyper Text Transfer Protocol，翻译过来就是超文本传输协议，位于TCP/IP四层模型当中的应用层。
 
