@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 相机
+title:  “咔嚓”相机
 excerpt_separator: "<!--more-->"
 categories:
      - SVG动画
@@ -8,7 +8,7 @@ tags:
   - svg
 ---
 
-### svg
+### 跟我一起领略相机的神奇！（位移加旋转）
 
 <!--more-->
 
