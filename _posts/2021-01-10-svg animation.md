@@ -3,7 +3,7 @@ layout: page
 title:  “咔嚓”相机
 excerpt_separator: "<!--more-->"
 categories:
-     - SVG动画
+     - SVG制作
 tags:
   - svg
 ---
