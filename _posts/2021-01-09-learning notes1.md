@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 快来学Markdown！简易上手
+title: 直面自己
 excerpt_separator: "<!--more-->"
 categories:
      - 学习笔记
