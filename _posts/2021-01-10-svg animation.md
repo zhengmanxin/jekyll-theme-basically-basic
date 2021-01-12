@@ -23,3 +23,9 @@ tags:
            begin="0s" type="rotate" from="0 160 160" to="360 160 160" repeatCount="indefinite"/>
   </g>
 </svg>
+ </section>
+  
+  **别眨眼，让我们一起看看代码是怎样的**
+```
+<animateTransform attributeName="transform" begin="0s" dur="10s" type="rotate" from="0 160 160" to="360 160 160" repeatCount="indefinite"/>
+```
